@@ -1,0 +1,8 @@
+caller: foo
+called: moo
+at time: 2022-03-01 19:46:02.714000
+call declined at: 2022-03-01 19:46:09.527000
+caller: moo
+called: foo
+at time: 2022-03-01 19:46:25.616000
+call declined at: 2022-03-01 19:46:29.847000

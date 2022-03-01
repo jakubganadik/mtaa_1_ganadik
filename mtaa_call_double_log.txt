@@ -1,0 +1,10 @@
+caller: foo
+called: moo
+at time: 2022-03-01 19:41:43.314000
+call started at: 2022-03-01 19:41:49.523000
+call ended at: 2022-03-01 19:41:58.276000
+caller: moo
+called: foo
+at time: 2022-03-01 19:42:11.158000
+call started at: 2022-03-01 19:42:16.411000
+call ended at: 2022-03-01 19:42:28.103000
